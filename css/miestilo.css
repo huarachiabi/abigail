@@ -1,0 +1,31 @@
+table {background-color: #fff;border-color:#000;border-width:1px;border-spacing:2px;
+/*width: 30%;*/}
+tr {background-color: #d6e3f2;
+}
+td {background-color: #fff590;font-size: small;/*determina el tamaño de la fuente*/color: #000;font-family: Verdana;/*Determina la fuente que se va utilizar*/
+/*text-align: left; alineacion de Texto-- left right center justify*/
+word-spacing:5pt; /*formato entre palabras*/
+vertical-align:bottom;/*top;super*/
+text-indent:10px;/*Sangria*/
+}th {
+border-spacing:25px;
+background-image:url(../imagenes/derecha.jpg);
+font-size: medium;color: #03ff7c;font-family: Verdana, Helvetica, Arial, sans-serif;text-align: center;}
+
+.alinear{text-align: center;
+}
+input {font-size: small;font-family: "Comic Sans";color: #000;
+}
+
+select {font-size: small;font-family: "Comic Sans";color: #4776cc;background-color: #fff;}
+submit{margin-top: auto;} 
+textarea {font-size: small;font-family: "Comic Sans";color: #4776cc;background-color: #fff;
+}
+
+body {
+
+/*background-repeat:repeat-x;background-image:url(../imagenes/derecha.jpg);*/background: #000;*/background-color: #f8f8f8;background-color: #00ffff;}
+
+ h1 {font-family: Times, "Times New Roman", serif;font-size: 15px;background-color: #eaf4ff;
+text-align: center; color: #040404;font-weight: bold;}
+

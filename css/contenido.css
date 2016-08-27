@@ -1,0 +1,55 @@
+h3{
+font-family: Times, "Times New Roman", serif;
+font-size: 20px;
+background-color: #008080;
+text-align: center; 
+color: #fff;
+font-weight: bold;
+}
+
+p{
+font-family: Times, "Times New Roman", serif;
+font-size: 14px;
+background-color: 040404#;
+text-align: left; 
+color: #336600;
+}
+input {font-size: small;
+font-family: "Comic Sans";
+color: #000;
+}
+
+select {font-size: small;
+font-family: "Comic Sans";
+color: #4776cc;
+background-color: #fff;}
+submit{
+margin-top: auto;
+
+} 
+textarea {font-size: small;
+font-family: "Comic Sans";
+color: #4776cc;
+background-color: #fff;
+}
+
+body {
+
+background-color: #fff;}
+table {
+background-color: #fff;
+border-width:0.1px;
+border-color:#336600;
+
+
+/*width: 30%;*/
+}
+
+ h1 {
+font-family: Times, "Times New Roman", serif;
+font-size: 15px;
+background-color: #eaf4ff;
+text-align: center; 
+color: #040404;
+font-weight: bold;}
+
